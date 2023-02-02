@@ -1,5 +1,8 @@
 # Week 12 Crip Technoscience
 ## Assignment Part 1: Journal Entry 1
+Academic essay of 2500 words exploring the intersection of computational
+thinking and culture. (50%)
+
 #### Note of Conducting Research in Conservation: Social Science Methods and Practice
 
 Reading:
@@ -33,12 +36,28 @@ Focus group, data analysis, observation, questionnaire, interview
 
 
 
-Format Reference:
+### Format Reference:
 https://www.sciencedirect.com/science/article/abs/pii/S0160791X21000129
+(1177 words)
 
-
-
-
+- Abstract
+- Introduction
+- Background: TechnoAccess
+- Objective
+- Methods
+- Methodological frameworks for accessibility
+- Discussion
+- Limitations to the review
+- Future research
+- Conclusion
+- Acknowledgements
+- References
 
 
 ## Assignment Part 2: Journal Entry Two
+
+### Conduct your own literature search and document the process
+- keywords: technology, digital, children book, preschooler, education, interaction
+- why adaults avoid children start using technical product too early?
+
+
