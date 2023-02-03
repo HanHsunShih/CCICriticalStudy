@@ -59,5 +59,10 @@ https://www.sciencedirect.com/science/article/abs/pii/S0160791X21000129
 ### Conduct your own literature search and document the process
 - keywords: technology, digital, children book, preschooler, education, interaction
 - why adaults avoid children start using technical product too early?
+- topic idea:
+
+"Enhancing the Reading Experience: An Examination of the Interactive Features in Digital Children's Books for Preschoolers"
+
+"Balancing Technology and Physical Interaction: The Role of Digital Children's Books in Supporting the Development of Preschoolers"
 
 
