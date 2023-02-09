@@ -5,5 +5,6 @@ Literacy can be considered in many different ways, like refers to the ability to
 
 To call computer programming a literacy means to consider it as an essential form of communication and expression that is similar to reading and writing. This notion recognizes that in today's society, the ability to code and understand technology is becoming increasingly important and is necessary for individuals to fully participate in the digital world. Just as traditional literacy skills provide access to written information and knowledge, computer programming literacy opens up opportunities for creative problem solving and the creation of digital products and services. It also enables individuals to better understand and navigate the complex systems and technologies that are shaping our world.
 
+# Task 2
 ## What are the new thoughts that come to you and help problematising the notion of coding literacy?  Which quotes or sentences inspire you to think more?( After doing reading)
 ####
