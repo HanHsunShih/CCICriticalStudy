@@ -1,4 +1,4 @@
-# Week 12 Crip Technoscience
+# Week 12 
 ## Assignment Part 1: Journal Entry 1
 Academic essay of 2500 words exploring the intersection of computational
 thinking and culture. (50%)
